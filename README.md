@@ -1,5 +1,7 @@
 # UK Retail Sales Dashboard
 
+**Live demo:** https://kushsharawat.github.io/retail-sales-dashboard/
+
 An end-to-end data analytics project: messy raw sales data is cleaned and aggregated with **Python (pandas)**, then explored through an interactive **React + Recharts** dashboard.
 
 ![Dashboard screenshot](docs/dashboard.png)
